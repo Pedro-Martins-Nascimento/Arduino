@@ -22,12 +22,13 @@ Este projeto foi construído do zero, focando nos fundamentos do desenvolvimento
 
 O site foi desenvolvido seguindo a abordagem de **página de índice com âncoras para uma página de conteúdo**, conforme uma das opções da atividade. A estrutura de arquivos é a seguinte:
 
+```
 /
 ├── index.html # Página inicial com a grade de links para os componentes.
 ├── componentes.html # Página única contendo os "cards" de todos os componentes, com IDs para as âncoras.
 ├── style.css # Arquivo de estilos para todo o site.
 └── assets/ # Pasta para armazenar as imagens dos componentes.
-
+```
 
 ## 📜 Componentes Documentados
 
