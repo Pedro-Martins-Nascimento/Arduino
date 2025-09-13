@@ -68,3 +68,43 @@ Alternativamente, você pode clonar este repositório e abrir o arquivo `index.h
 git clone https://github.com/Pedro-Martins-Nascimento/Arduino.git
 cd Arduino
 # Abra o arquivo index.html no navegador
+```
+
+## 👨‍💻 Autores
+
+Este projeto foi desenvolvido em colaboração pela seguinte equipe:
+
+---
+
+- **Pedro Martins do Nascimento** (*Você*)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-martins-do-nascimento-a83680226)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro-Martins-Nascimento)
+
+- **Felipe Vieira**
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/URL-DO-FELIPE/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/URL-DO-FELIPE/)
+
+- **Klaus**
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/URL-DO-KLAUS/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/URL-DO-KLAUS/)
+
+- **Miguel** (*TalkBox ~ Teac...*)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/URL-DO-MIGUEL/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/URL-DO-MIGUEL/)
+
+- **Lucas Montimór**
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/URL-DO-LUCAS/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/URL-DO-LUCAS/)
+
+- **Júlia Paz**
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/URL-DA-JULIA/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/URL-DA-JULIA/)
+
+
+
