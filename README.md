@@ -1,6 +1,6 @@
 # 🔌 Glossário de Componentes Eletrônicos - Kit Arduino
 
-Este repositório contém o código-fonte de um site estático desenvolvido como parte da disciplina de **PAC Extensionista** no curso de **Pedro Martins do Nascimento**. O projeto funciona como um guia de referência rápido e visual para os principais componentes de um kit de eletrônica baseado em Arduino.
+Este repositório contém o código-fonte de um site estático desenvolvido como parte da disciplina de **PAC Extencionista** no curso de **Engenharia de Software**. O projeto funciona como um guia de referência rápido e visual para os principais componentes de um kit de eletrônica baseado em Arduino.
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -76,7 +76,7 @@ Este projeto foi desenvolvido em colaboração pela seguinte equipe:
 
 ---
 
-- **Pedro Martins do Nascimento** (*Você*)
+- **Pedro Martins do Nascimento**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-martins-do-nascimento-a83680226/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro-Martins-Nascimento)
@@ -86,25 +86,25 @@ Este projeto foi desenvolvido em colaboração pela seguinte equipe:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/URL-DO-FELIPE/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/URL-DO-FELIPE/)
 
-- **Klaus**
+- **Klaus Jourdain**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/URL-DO-KLAUS/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/URL-DO-KLAUS/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaus-jourdain)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Klaus-E-J)
 
-- **Miguel** (*TalkBox ~ Teac...*)
+- **Miguel Zschornack** 
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/URL-DO-MIGUEL/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/URL-DO-MIGUEL/)
 
 - **Lucas Montimór**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/URL-DO-LUCAS/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/URL-DO-LUCAS/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-montim%C3%B3r-6457bb19b/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucas-Montimor)
 
 - **Júlia Paz**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/URL-DA-JULIA/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/URL-DA-JULIA/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pazesilvajulia)
 
 
 
