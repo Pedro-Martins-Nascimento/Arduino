@@ -1,6 +1,6 @@
 # 🔌 Glossário de Componentes Eletrônicos - Kit Arduino
 
-Este repositório contém o código-fonte de um site estático desenvolvido como parte da disciplina de **[Nome da Disciplina]** no curso de **[Nome do Curso]**. O projeto funciona como um guia de referência rápido e visual para os principais componentes de um kit de eletrônica baseado em Arduino.
+Este repositório contém o código-fonte de um site estático desenvolvido como parte da disciplina de **PAC Extensionista** no curso de **Pedro Martins do Nascimento**. O projeto funciona como um guia de referência rápido e visual para os principais componentes de um kit de eletrônica baseado em Arduino.
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -66,5 +66,5 @@ Alternativamente, você pode clonar este repositório e abrir o arquivo `index.h
 
 ```bash
 git clone https://github.com/Pedro-Martins-Nascimento/Arduino.git
-cd seu-repositorio
+cd Arduino
 # Abra o arquivo index.html no navegador
