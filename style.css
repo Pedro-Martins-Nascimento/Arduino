@@ -1,0 +1,147 @@
+/* Configurações Globais e Scroll Suave */
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 20px;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    border-bottom: 1px solid #444;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    color: #9cdcfe;
+    font-size: 2.5em;
+    margin: 0;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+a {
+    color: #4ec9b0;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* --- Estilo da Lista de Navegação (index.html) --- */
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Aumentei um pouco o minmax */
+    gap: 15px;
+}
+
+/* --- MUDANÇA 1: Adicionamos esta nova regra --- */
+nav ul li {
+    display: flex; /* Isso transforma o <li> em um container flex, o que força seu filho <a> a ocupar 100% da altura. */
+}
+
+/* --- MUDANÇA 2: Alteramos e adicionamos propriedades aqui --- */
+nav a {
+    display: flex;         /* Em vez de 'block', usamos 'flex' para poder centralizar o texto */
+    flex-grow: 1;          /* Garante que o link ocupe todo o espaço do <li> */
+    align-items: center;   /* Centraliza o texto verticalmente */
+    justify-content: center; /* Centraliza o texto horizontalmente */
+    text-align: center;      /* Garante o alinhamento do texto caso ele quebre a linha */
+    padding: 15px;
+    background-color: #2d2d2d;
+    color: #d4d4d4;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.2s;
+}
+
+nav a:hover {
+    background-color: #3e3e3e;
+    color: #ffffff;
+}
+
+/* --- O resto do CSS para a página de componentes permanece o mesmo --- */
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+}
+
+.card {
+    background-color: #252526;
+    border: 1px solid #3c3c3c;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    display: flex;
+    flex-direction: column;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.card img {
+    width: 100%;
+    height: 180px;
+    object-fit: contain;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    background-color: #333;
+}
+
+.card h2 {
+    color: #4ec9b0;
+    font-size: 1.4em;
+    margin-top: 0;
+    margin-bottom: 10px;
+    border: none;
+    padding: 0;
+}
+
+.card dl {
+    margin: 0;
+    flex-grow: 1;
+}
+
+.card dt {
+    font-weight: bold;
+    color: #c586c0;
+    font-size: 0.9em;
+}
+
+.card dd {
+    margin-left: 0;
+    margin-bottom: 10px;
+    font-size: 1em;
+}
+
+.back-to-top {
+    display: block;
+    margin-top: auto;
+    padding-top: 15px;
+    text-align: right;
+    font-size: 0.9em;
+    border-top: 1px solid #3c3c3c;
+}
