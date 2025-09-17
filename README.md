@@ -93,8 +93,8 @@ Este projeto foi desenvolvido em colaboração pela seguinte equipe:
 
 - **Miguel Zschornack** 
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/URL-DO-MIGUEL/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/URL-DO-MIGUEL/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelzschornack/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zschornack)
 
 - **Lucas Montimór**
 
@@ -103,8 +103,5 @@ Este projeto foi desenvolvido em colaboração pela seguinte equipe:
 
 - **Júlia Paz**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/URL-DA-JULIA/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pazesilvajulia/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pazesilvajulia)
-
-
-
